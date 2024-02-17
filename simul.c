@@ -4,7 +4,8 @@
 #define NBSOMMET 8
 #define NBVAR 1
 #define M 10
-#define NBCLAUSE 2
+
+
 
 /*                                  
         /// DEFINITION DE LA TOPOLOGIE DU GRAPHE ///
@@ -64,18 +65,19 @@ int new_clock_value(int id){
     return (min+1)%M;
 }
 
-int (*macro[NBCLAUSE])(int id) = {&new_clock_value};
+int (*macro[NBMACRO])(int id) = {&new_clock_value};
 
 /*                                  
         /// DEFINITION DES CLAUSES GARDEES ///
 
 
 */
+#define NBCLAUSE 2
+
 
 int action_id[NBSOMMET] = {0,0,0,0,0,0,0,0};
 
 int gardes_vide(int id){
-    printf("new_clock_value : %d  horloge de %d : %d \n",macro_mem[id][0],id,var[id][0]);
     return (var[id][0] == macro_mem[id][0]);
 }
 
@@ -99,6 +101,8 @@ void action_incr(int id){
 int (*gardes[NBCLAUSE])(int id) = {&gardes_vide,&gardes_incr};
 void (*action[NBCLAUSE])(int id) = {&action_vide,&action_incr};
 
+char *nom_des_actions[NBCLAUSE] = {"rien","incr"};
+
 
 
 /*                                  
@@ -106,48 +110,56 @@ void (*action[NBCLAUSE])(int id) = {&action_vide,&action_incr};
 
 
 */
-void eval_macro(){
+void eval_macro(FILE* sortie){
     for(int i = 0 ; i<NBSOMMET; i++){
         for(int j = 0 ; j< NBMACRO; j++){
             macro_mem[i][j] = macro[j](i);
+            fprintf(sortie,"\t\tsommet %d new_clock_value : %d,  horloge : %d \n",i,macro_mem[i][j],var[i][0]);
         }
     }
 }
 
-void eval_gardes(){
+void eval_gardes(FILE* sortie){
     for(int i=0;i<NBSOMMET;i++){
         for(int j=0; j<NBCLAUSE; j++){
             int res = (gardes[j])(i);
             if( res ){
                 action_id[i] = j;
-                printf("le sommet %d fera l'action %d \n",i,j);
+                fprintf(sortie,"\t\tle sommet : %d fera l'action : %s \n",i,nom_des_actions[j]);
             }
         }
     }
 }
 
-void eval_action(){
+void eval_action(FILE* sortie){
     for(int i=0;i<NBSOMMET;i++){
         action[action_id[i]](i);
-        printf("le sommet %d a fait l'action %d \n",i,action_id[i]);
+        fprintf(sortie,"\t\tle sommet %d a fait l'action %s \n",i,nom_des_actions[action_id[i]]);
     }
 }
 
 
-void eval(int nb_cycles){ /* si on veut tourner a l'infini nb_cycles = -1*/
-    int i = 0;
-    while(i != nb_cycles){
-        eval_macro();
-        printf("debut de l'évaluation des gardes du cycles %d \n",i);
-        eval_gardes();
-        printf("debut des actions du cycles %d \n",i);
-        eval_action();
+void eval(int nb_cycles,FILE* sortie){ /* si on veut tourner a l'infini nb_cycles = -1*/
+    int i = 1;
+    while(i <= nb_cycles){
+        fprintf(sortie,"\n\ndebut de l'évaluation du cycles %d \n \n",i);
+        fprintf(sortie,"\n\tvaleurs des macro et des memoires  \n \n");
+        eval_macro(sortie);
+        fprintf(sortie,"\n\tdebut de l'évaluation des gardes du cycles %d \n \n",i);
+        eval_gardes(sortie);
+        fprintf(sortie,"\n\tdebut des actions du cycles %d \n \n",i);
+        eval_action(sortie);
         i++;
     }
 }
 
 int main(){
 
-    eval(10);
+    FILE *sortie = fopen("example_1","w");
+    if(sortie==NULL){
+        printf("problème pendant l'ouverture du fichier de trace");
+    }
+
+    eval(5,sortie);
     return 0;
 }
