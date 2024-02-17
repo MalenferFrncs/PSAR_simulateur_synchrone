@@ -1,12 +1,11 @@
 #ifndef CLAUSES_H
 #define CLAUSES_H
 
-#define NBCLAUSE 1
+#define NBCLAUSE 2
 
-bool (*gardes[NBCLAUSE])(int id);
-bool (*action[NBCLAUSE])(int id);
+int (*gardes[NBCLAUSE])(int id) ;
+void (*action[NBCLAUSE])(int id) ;
 
-
-
+int action_id[NBSOMMET] = {0,0,0,0,0,0,0,0};
 
 #endif

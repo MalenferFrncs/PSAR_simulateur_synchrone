@@ -3,30 +3,12 @@
 
 #define NBSOMMET 8
 #define NBVAR 1
+#define M 10
 
 
-int topologie[NBSOMMET][NBSOMMET]= {
-    {0,1,0,0,0,0,0,0},
-    {1,0,1,0,1,0,0,0},
-    {0,1,0,1,0,1,1,0},
-    {0,0,1,0,0,0,1,0},
-    {0,1,0,0,0,1,0,1},
-    {0,0,1,0,1,0,0,1},
-    {0,0,1,1,0,0,0,1},
-    {0,0,0,0,1,1,1,0}
-};
+int topologie[NBSOMMET][NBSOMMET];
 
-int var[NBSOMMET][NBVAR] = {
-    {7},
-    {8},
-    {4},
-    {3},
-    {2},
-    {7},
-    {0},
-    {7}
-}
-
+int var[NBSOMMET][NBVAR];
 
 
 #endif
