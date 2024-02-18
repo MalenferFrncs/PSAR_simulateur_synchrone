@@ -1,8 +1,9 @@
-
 #include <stdlib.h>
 #include "topologie.h"
 #include "clauses.h"
 #include "macro.h"
+
+int action_id[NBSOMMET] = {0,0,0,0,0,0,0,0};
 
 int gardes_vide(int id){
     return (var[id][0] == new_clock_value(id));
