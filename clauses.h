@@ -6,6 +6,6 @@
 int (*gardes[NBCLAUSE])(int id) ;
 void (*action[NBCLAUSE])(int id) ;
 
-int action_id[NBSOMMET] = {0,0,0,0,0,0,0,0};
+extern int action_id[NBSOMMET];
 
 #endif
