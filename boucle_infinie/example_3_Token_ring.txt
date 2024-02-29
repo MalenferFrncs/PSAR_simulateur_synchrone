@@ -1,0 +1,1950 @@
+
+
+debut de l'évaluation du cycles 0 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 1 
+		sommet 1 Token : 1,  v : 3 
+		sommet 2 Token : 0,  v : 3 
+		sommet 3 Token : 1,  v : 2 
+		sommet 4 Token : 0,  v : 2 
+		sommet 5 Token : 1,  v : 1 
+		sommet 6 Token : 0,  v : 1 
+		sommet 7 Token : 1,  v : 0 
+
+	debut des actions du cycles 0 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action T 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 1 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 1,  v : 1 
+		sommet 1 Token : 0,  v : 1 
+		sommet 2 Token : 1,  v : 3 
+		sommet 3 Token : 0,  v : 3 
+		sommet 4 Token : 1,  v : 2 
+		sommet 5 Token : 0,  v : 2 
+		sommet 6 Token : 1,  v : 1 
+		sommet 7 Token : 0,  v : 1 
+
+	debut des actions du cycles 1 
+ 
+		le sommet 0 a fait l'action T 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action T 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 2 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 2 
+		sommet 1 Token : 1,  v : 1 
+		sommet 2 Token : 0,  v : 1 
+		sommet 3 Token : 1,  v : 3 
+		sommet 4 Token : 0,  v : 3 
+		sommet 5 Token : 1,  v : 2 
+		sommet 6 Token : 0,  v : 2 
+		sommet 7 Token : 1,  v : 1 
+
+	debut des actions du cycles 2 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action T 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 3 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 1,  v : 2 
+		sommet 1 Token : 0,  v : 2 
+		sommet 2 Token : 1,  v : 1 
+		sommet 3 Token : 0,  v : 1 
+		sommet 4 Token : 1,  v : 3 
+		sommet 5 Token : 0,  v : 3 
+		sommet 6 Token : 1,  v : 2 
+		sommet 7 Token : 0,  v : 2 
+
+	debut des actions du cycles 3 
+ 
+		le sommet 0 a fait l'action T 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action T 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 4 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 3 
+		sommet 1 Token : 1,  v : 2 
+		sommet 2 Token : 0,  v : 2 
+		sommet 3 Token : 1,  v : 1 
+		sommet 4 Token : 0,  v : 1 
+		sommet 5 Token : 1,  v : 3 
+		sommet 6 Token : 0,  v : 3 
+		sommet 7 Token : 1,  v : 2 
+
+	debut des actions du cycles 4 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action T 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 5 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 1,  v : 3 
+		sommet 1 Token : 0,  v : 3 
+		sommet 2 Token : 1,  v : 2 
+		sommet 3 Token : 0,  v : 2 
+		sommet 4 Token : 1,  v : 1 
+		sommet 5 Token : 0,  v : 1 
+		sommet 6 Token : 1,  v : 3 
+		sommet 7 Token : 0,  v : 3 
+
+	debut des actions du cycles 5 
+ 
+		le sommet 0 a fait l'action T 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action T 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 6 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 1,  v : 3 
+		sommet 2 Token : 0,  v : 3 
+		sommet 3 Token : 1,  v : 2 
+		sommet 4 Token : 0,  v : 2 
+		sommet 5 Token : 1,  v : 1 
+		sommet 6 Token : 0,  v : 1 
+		sommet 7 Token : 1,  v : 3 
+
+	debut des actions du cycles 6 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action T 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 7 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 0,  v : 4 
+		sommet 2 Token : 1,  v : 3 
+		sommet 3 Token : 0,  v : 3 
+		sommet 4 Token : 1,  v : 2 
+		sommet 5 Token : 0,  v : 2 
+		sommet 6 Token : 1,  v : 1 
+		sommet 7 Token : 0,  v : 1 
+
+	debut des actions du cycles 7 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action T 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 8 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 0,  v : 4 
+		sommet 2 Token : 0,  v : 4 
+		sommet 3 Token : 1,  v : 3 
+		sommet 4 Token : 0,  v : 3 
+		sommet 5 Token : 1,  v : 2 
+		sommet 6 Token : 0,  v : 2 
+		sommet 7 Token : 1,  v : 1 
+
+	debut des actions du cycles 8 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 9 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 0,  v : 4 
+		sommet 2 Token : 0,  v : 4 
+		sommet 3 Token : 0,  v : 4 
+		sommet 4 Token : 1,  v : 3 
+		sommet 5 Token : 0,  v : 3 
+		sommet 6 Token : 1,  v : 2 
+		sommet 7 Token : 0,  v : 2 
+
+	debut des actions du cycles 9 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 10 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 0,  v : 4 
+		sommet 2 Token : 0,  v : 4 
+		sommet 3 Token : 0,  v : 4 
+		sommet 4 Token : 0,  v : 4 
+		sommet 5 Token : 1,  v : 3 
+		sommet 6 Token : 0,  v : 3 
+		sommet 7 Token : 1,  v : 2 
+
+	debut des actions du cycles 10 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 11 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 0,  v : 4 
+		sommet 2 Token : 0,  v : 4 
+		sommet 3 Token : 0,  v : 4 
+		sommet 4 Token : 0,  v : 4 
+		sommet 5 Token : 0,  v : 4 
+		sommet 6 Token : 1,  v : 3 
+		sommet 7 Token : 0,  v : 3 
+
+	debut des actions du cycles 11 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 12 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 0,  v : 4 
+		sommet 2 Token : 0,  v : 4 
+		sommet 3 Token : 0,  v : 4 
+		sommet 4 Token : 0,  v : 4 
+		sommet 5 Token : 0,  v : 4 
+		sommet 6 Token : 0,  v : 4 
+		sommet 7 Token : 1,  v : 3 
+
+	debut des actions du cycles 12 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 13 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 1,  v : 4 
+		sommet 1 Token : 0,  v : 4 
+		sommet 2 Token : 0,  v : 4 
+		sommet 3 Token : 0,  v : 4 
+		sommet 4 Token : 0,  v : 4 
+		sommet 5 Token : 0,  v : 4 
+		sommet 6 Token : 0,  v : 4 
+		sommet 7 Token : 0,  v : 4 
+
+	debut des actions du cycles 13 
+ 
+		le sommet 0 a fait l'action T 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 14 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 5 
+		sommet 1 Token : 1,  v : 4 
+		sommet 2 Token : 0,  v : 4 
+		sommet 3 Token : 0,  v : 4 
+		sommet 4 Token : 0,  v : 4 
+		sommet 5 Token : 0,  v : 4 
+		sommet 6 Token : 0,  v : 4 
+		sommet 7 Token : 0,  v : 4 
+
+	debut des actions du cycles 14 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action T 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 15 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 5 
+		sommet 1 Token : 0,  v : 5 
+		sommet 2 Token : 1,  v : 4 
+		sommet 3 Token : 0,  v : 4 
+		sommet 4 Token : 0,  v : 4 
+		sommet 5 Token : 0,  v : 4 
+		sommet 6 Token : 0,  v : 4 
+		sommet 7 Token : 0,  v : 4 
+
+	debut des actions du cycles 15 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action T 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 16 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 5 
+		sommet 1 Token : 0,  v : 5 
+		sommet 2 Token : 0,  v : 5 
+		sommet 3 Token : 1,  v : 4 
+		sommet 4 Token : 0,  v : 4 
+		sommet 5 Token : 0,  v : 4 
+		sommet 6 Token : 0,  v : 4 
+		sommet 7 Token : 0,  v : 4 
+
+	debut des actions du cycles 16 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 17 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 5 
+		sommet 1 Token : 0,  v : 5 
+		sommet 2 Token : 0,  v : 5 
+		sommet 3 Token : 0,  v : 5 
+		sommet 4 Token : 1,  v : 4 
+		sommet 5 Token : 0,  v : 4 
+		sommet 6 Token : 0,  v : 4 
+		sommet 7 Token : 0,  v : 4 
+
+	debut des actions du cycles 17 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 18 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 5 
+		sommet 1 Token : 0,  v : 5 
+		sommet 2 Token : 0,  v : 5 
+		sommet 3 Token : 0,  v : 5 
+		sommet 4 Token : 0,  v : 5 
+		sommet 5 Token : 1,  v : 4 
+		sommet 6 Token : 0,  v : 4 
+		sommet 7 Token : 0,  v : 4 
+
+	debut des actions du cycles 18 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 19 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 5 
+		sommet 1 Token : 0,  v : 5 
+		sommet 2 Token : 0,  v : 5 
+		sommet 3 Token : 0,  v : 5 
+		sommet 4 Token : 0,  v : 5 
+		sommet 5 Token : 0,  v : 5 
+		sommet 6 Token : 1,  v : 4 
+		sommet 7 Token : 0,  v : 4 
+
+	debut des actions du cycles 19 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 20 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 5 
+		sommet 1 Token : 0,  v : 5 
+		sommet 2 Token : 0,  v : 5 
+		sommet 3 Token : 0,  v : 5 
+		sommet 4 Token : 0,  v : 5 
+		sommet 5 Token : 0,  v : 5 
+		sommet 6 Token : 0,  v : 5 
+		sommet 7 Token : 1,  v : 4 
+
+	debut des actions du cycles 20 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 21 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 1,  v : 5 
+		sommet 1 Token : 0,  v : 5 
+		sommet 2 Token : 0,  v : 5 
+		sommet 3 Token : 0,  v : 5 
+		sommet 4 Token : 0,  v : 5 
+		sommet 5 Token : 0,  v : 5 
+		sommet 6 Token : 0,  v : 5 
+		sommet 7 Token : 0,  v : 5 
+
+	debut des actions du cycles 21 
+ 
+		le sommet 0 a fait l'action T 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 22 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 6 
+		sommet 1 Token : 1,  v : 5 
+		sommet 2 Token : 0,  v : 5 
+		sommet 3 Token : 0,  v : 5 
+		sommet 4 Token : 0,  v : 5 
+		sommet 5 Token : 0,  v : 5 
+		sommet 6 Token : 0,  v : 5 
+		sommet 7 Token : 0,  v : 5 
+
+	debut des actions du cycles 22 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action T 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 23 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 6 
+		sommet 1 Token : 0,  v : 6 
+		sommet 2 Token : 1,  v : 5 
+		sommet 3 Token : 0,  v : 5 
+		sommet 4 Token : 0,  v : 5 
+		sommet 5 Token : 0,  v : 5 
+		sommet 6 Token : 0,  v : 5 
+		sommet 7 Token : 0,  v : 5 
+
+	debut des actions du cycles 23 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action T 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 24 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 6 
+		sommet 1 Token : 0,  v : 6 
+		sommet 2 Token : 0,  v : 6 
+		sommet 3 Token : 1,  v : 5 
+		sommet 4 Token : 0,  v : 5 
+		sommet 5 Token : 0,  v : 5 
+		sommet 6 Token : 0,  v : 5 
+		sommet 7 Token : 0,  v : 5 
+
+	debut des actions du cycles 24 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 25 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 6 
+		sommet 1 Token : 0,  v : 6 
+		sommet 2 Token : 0,  v : 6 
+		sommet 3 Token : 0,  v : 6 
+		sommet 4 Token : 1,  v : 5 
+		sommet 5 Token : 0,  v : 5 
+		sommet 6 Token : 0,  v : 5 
+		sommet 7 Token : 0,  v : 5 
+
+	debut des actions du cycles 25 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 26 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 6 
+		sommet 1 Token : 0,  v : 6 
+		sommet 2 Token : 0,  v : 6 
+		sommet 3 Token : 0,  v : 6 
+		sommet 4 Token : 0,  v : 6 
+		sommet 5 Token : 1,  v : 5 
+		sommet 6 Token : 0,  v : 5 
+		sommet 7 Token : 0,  v : 5 
+
+	debut des actions du cycles 26 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 27 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 6 
+		sommet 1 Token : 0,  v : 6 
+		sommet 2 Token : 0,  v : 6 
+		sommet 3 Token : 0,  v : 6 
+		sommet 4 Token : 0,  v : 6 
+		sommet 5 Token : 0,  v : 6 
+		sommet 6 Token : 1,  v : 5 
+		sommet 7 Token : 0,  v : 5 
+
+	debut des actions du cycles 27 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 28 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 6 
+		sommet 1 Token : 0,  v : 6 
+		sommet 2 Token : 0,  v : 6 
+		sommet 3 Token : 0,  v : 6 
+		sommet 4 Token : 0,  v : 6 
+		sommet 5 Token : 0,  v : 6 
+		sommet 6 Token : 0,  v : 6 
+		sommet 7 Token : 1,  v : 5 
+
+	debut des actions du cycles 28 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 29 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 1,  v : 6 
+		sommet 1 Token : 0,  v : 6 
+		sommet 2 Token : 0,  v : 6 
+		sommet 3 Token : 0,  v : 6 
+		sommet 4 Token : 0,  v : 6 
+		sommet 5 Token : 0,  v : 6 
+		sommet 6 Token : 0,  v : 6 
+		sommet 7 Token : 0,  v : 6 
+
+	debut des actions du cycles 29 
+ 
+		le sommet 0 a fait l'action T 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 30 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 7 
+		sommet 1 Token : 1,  v : 6 
+		sommet 2 Token : 0,  v : 6 
+		sommet 3 Token : 0,  v : 6 
+		sommet 4 Token : 0,  v : 6 
+		sommet 5 Token : 0,  v : 6 
+		sommet 6 Token : 0,  v : 6 
+		sommet 7 Token : 0,  v : 6 
+
+	debut des actions du cycles 30 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action T 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 31 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 7 
+		sommet 1 Token : 0,  v : 7 
+		sommet 2 Token : 1,  v : 6 
+		sommet 3 Token : 0,  v : 6 
+		sommet 4 Token : 0,  v : 6 
+		sommet 5 Token : 0,  v : 6 
+		sommet 6 Token : 0,  v : 6 
+		sommet 7 Token : 0,  v : 6 
+
+	debut des actions du cycles 31 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action T 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 32 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 7 
+		sommet 1 Token : 0,  v : 7 
+		sommet 2 Token : 0,  v : 7 
+		sommet 3 Token : 1,  v : 6 
+		sommet 4 Token : 0,  v : 6 
+		sommet 5 Token : 0,  v : 6 
+		sommet 6 Token : 0,  v : 6 
+		sommet 7 Token : 0,  v : 6 
+
+	debut des actions du cycles 32 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 33 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 7 
+		sommet 1 Token : 0,  v : 7 
+		sommet 2 Token : 0,  v : 7 
+		sommet 3 Token : 0,  v : 7 
+		sommet 4 Token : 1,  v : 6 
+		sommet 5 Token : 0,  v : 6 
+		sommet 6 Token : 0,  v : 6 
+		sommet 7 Token : 0,  v : 6 
+
+	debut des actions du cycles 33 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 34 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 7 
+		sommet 1 Token : 0,  v : 7 
+		sommet 2 Token : 0,  v : 7 
+		sommet 3 Token : 0,  v : 7 
+		sommet 4 Token : 0,  v : 7 
+		sommet 5 Token : 1,  v : 6 
+		sommet 6 Token : 0,  v : 6 
+		sommet 7 Token : 0,  v : 6 
+
+	debut des actions du cycles 34 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 35 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 7 
+		sommet 1 Token : 0,  v : 7 
+		sommet 2 Token : 0,  v : 7 
+		sommet 3 Token : 0,  v : 7 
+		sommet 4 Token : 0,  v : 7 
+		sommet 5 Token : 0,  v : 7 
+		sommet 6 Token : 1,  v : 6 
+		sommet 7 Token : 0,  v : 6 
+
+	debut des actions du cycles 35 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 36 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 7 
+		sommet 1 Token : 0,  v : 7 
+		sommet 2 Token : 0,  v : 7 
+		sommet 3 Token : 0,  v : 7 
+		sommet 4 Token : 0,  v : 7 
+		sommet 5 Token : 0,  v : 7 
+		sommet 6 Token : 0,  v : 7 
+		sommet 7 Token : 1,  v : 6 
+
+	debut des actions du cycles 36 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 37 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 1,  v : 7 
+		sommet 1 Token : 0,  v : 7 
+		sommet 2 Token : 0,  v : 7 
+		sommet 3 Token : 0,  v : 7 
+		sommet 4 Token : 0,  v : 7 
+		sommet 5 Token : 0,  v : 7 
+		sommet 6 Token : 0,  v : 7 
+		sommet 7 Token : 0,  v : 7 
+
+	debut des actions du cycles 37 
+ 
+		le sommet 0 a fait l'action T 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 38 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 0 
+		sommet 1 Token : 1,  v : 7 
+		sommet 2 Token : 0,  v : 7 
+		sommet 3 Token : 0,  v : 7 
+		sommet 4 Token : 0,  v : 7 
+		sommet 5 Token : 0,  v : 7 
+		sommet 6 Token : 0,  v : 7 
+		sommet 7 Token : 0,  v : 7 
+
+	debut des actions du cycles 38 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action T 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 39 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 0 
+		sommet 1 Token : 0,  v : 0 
+		sommet 2 Token : 1,  v : 7 
+		sommet 3 Token : 0,  v : 7 
+		sommet 4 Token : 0,  v : 7 
+		sommet 5 Token : 0,  v : 7 
+		sommet 6 Token : 0,  v : 7 
+		sommet 7 Token : 0,  v : 7 
+
+	debut des actions du cycles 39 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action T 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 40 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 0 
+		sommet 1 Token : 0,  v : 0 
+		sommet 2 Token : 0,  v : 0 
+		sommet 3 Token : 1,  v : 7 
+		sommet 4 Token : 0,  v : 7 
+		sommet 5 Token : 0,  v : 7 
+		sommet 6 Token : 0,  v : 7 
+		sommet 7 Token : 0,  v : 7 
+
+	debut des actions du cycles 40 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 41 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 0 
+		sommet 1 Token : 0,  v : 0 
+		sommet 2 Token : 0,  v : 0 
+		sommet 3 Token : 0,  v : 0 
+		sommet 4 Token : 1,  v : 7 
+		sommet 5 Token : 0,  v : 7 
+		sommet 6 Token : 0,  v : 7 
+		sommet 7 Token : 0,  v : 7 
+
+	debut des actions du cycles 41 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 42 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 0 
+		sommet 1 Token : 0,  v : 0 
+		sommet 2 Token : 0,  v : 0 
+		sommet 3 Token : 0,  v : 0 
+		sommet 4 Token : 0,  v : 0 
+		sommet 5 Token : 1,  v : 7 
+		sommet 6 Token : 0,  v : 7 
+		sommet 7 Token : 0,  v : 7 
+
+	debut des actions du cycles 42 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 43 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 0 
+		sommet 1 Token : 0,  v : 0 
+		sommet 2 Token : 0,  v : 0 
+		sommet 3 Token : 0,  v : 0 
+		sommet 4 Token : 0,  v : 0 
+		sommet 5 Token : 0,  v : 0 
+		sommet 6 Token : 1,  v : 7 
+		sommet 7 Token : 0,  v : 7 
+
+	debut des actions du cycles 43 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 44 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 0 
+		sommet 1 Token : 0,  v : 0 
+		sommet 2 Token : 0,  v : 0 
+		sommet 3 Token : 0,  v : 0 
+		sommet 4 Token : 0,  v : 0 
+		sommet 5 Token : 0,  v : 0 
+		sommet 6 Token : 0,  v : 0 
+		sommet 7 Token : 1,  v : 7 
+
+	debut des actions du cycles 44 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 45 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 1,  v : 0 
+		sommet 1 Token : 0,  v : 0 
+		sommet 2 Token : 0,  v : 0 
+		sommet 3 Token : 0,  v : 0 
+		sommet 4 Token : 0,  v : 0 
+		sommet 5 Token : 0,  v : 0 
+		sommet 6 Token : 0,  v : 0 
+		sommet 7 Token : 0,  v : 0 
+
+	debut des actions du cycles 45 
+ 
+		le sommet 0 a fait l'action T 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 46 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 1 
+		sommet 1 Token : 1,  v : 0 
+		sommet 2 Token : 0,  v : 0 
+		sommet 3 Token : 0,  v : 0 
+		sommet 4 Token : 0,  v : 0 
+		sommet 5 Token : 0,  v : 0 
+		sommet 6 Token : 0,  v : 0 
+		sommet 7 Token : 0,  v : 0 
+
+	debut des actions du cycles 46 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action T 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 47 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 1 
+		sommet 1 Token : 0,  v : 1 
+		sommet 2 Token : 1,  v : 0 
+		sommet 3 Token : 0,  v : 0 
+		sommet 4 Token : 0,  v : 0 
+		sommet 5 Token : 0,  v : 0 
+		sommet 6 Token : 0,  v : 0 
+		sommet 7 Token : 0,  v : 0 
+
+	debut des actions du cycles 47 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action T 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 48 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 1 
+		sommet 1 Token : 0,  v : 1 
+		sommet 2 Token : 0,  v : 1 
+		sommet 3 Token : 1,  v : 0 
+		sommet 4 Token : 0,  v : 0 
+		sommet 5 Token : 0,  v : 0 
+		sommet 6 Token : 0,  v : 0 
+		sommet 7 Token : 0,  v : 0 
+
+	debut des actions du cycles 48 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 49 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 1 
+		sommet 1 Token : 0,  v : 1 
+		sommet 2 Token : 0,  v : 1 
+		sommet 3 Token : 0,  v : 1 
+		sommet 4 Token : 1,  v : 0 
+		sommet 5 Token : 0,  v : 0 
+		sommet 6 Token : 0,  v : 0 
+		sommet 7 Token : 0,  v : 0 
+
+	debut des actions du cycles 49 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 50 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 1 
+		sommet 1 Token : 0,  v : 1 
+		sommet 2 Token : 0,  v : 1 
+		sommet 3 Token : 0,  v : 1 
+		sommet 4 Token : 0,  v : 1 
+		sommet 5 Token : 1,  v : 0 
+		sommet 6 Token : 0,  v : 0 
+		sommet 7 Token : 0,  v : 0 
+
+	debut des actions du cycles 50 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 51 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 1 
+		sommet 1 Token : 0,  v : 1 
+		sommet 2 Token : 0,  v : 1 
+		sommet 3 Token : 0,  v : 1 
+		sommet 4 Token : 0,  v : 1 
+		sommet 5 Token : 0,  v : 1 
+		sommet 6 Token : 1,  v : 0 
+		sommet 7 Token : 0,  v : 0 
+
+	debut des actions du cycles 51 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 52 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 1 
+		sommet 1 Token : 0,  v : 1 
+		sommet 2 Token : 0,  v : 1 
+		sommet 3 Token : 0,  v : 1 
+		sommet 4 Token : 0,  v : 1 
+		sommet 5 Token : 0,  v : 1 
+		sommet 6 Token : 0,  v : 1 
+		sommet 7 Token : 1,  v : 0 
+
+	debut des actions du cycles 52 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 53 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 1,  v : 1 
+		sommet 1 Token : 0,  v : 1 
+		sommet 2 Token : 0,  v : 1 
+		sommet 3 Token : 0,  v : 1 
+		sommet 4 Token : 0,  v : 1 
+		sommet 5 Token : 0,  v : 1 
+		sommet 6 Token : 0,  v : 1 
+		sommet 7 Token : 0,  v : 1 
+
+	debut des actions du cycles 53 
+ 
+		le sommet 0 a fait l'action T 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 54 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 2 
+		sommet 1 Token : 1,  v : 1 
+		sommet 2 Token : 0,  v : 1 
+		sommet 3 Token : 0,  v : 1 
+		sommet 4 Token : 0,  v : 1 
+		sommet 5 Token : 0,  v : 1 
+		sommet 6 Token : 0,  v : 1 
+		sommet 7 Token : 0,  v : 1 
+
+	debut des actions du cycles 54 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action T 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 55 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 2 
+		sommet 1 Token : 0,  v : 2 
+		sommet 2 Token : 1,  v : 1 
+		sommet 3 Token : 0,  v : 1 
+		sommet 4 Token : 0,  v : 1 
+		sommet 5 Token : 0,  v : 1 
+		sommet 6 Token : 0,  v : 1 
+		sommet 7 Token : 0,  v : 1 
+
+	debut des actions du cycles 55 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action T 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 56 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 2 
+		sommet 1 Token : 0,  v : 2 
+		sommet 2 Token : 0,  v : 2 
+		sommet 3 Token : 1,  v : 1 
+		sommet 4 Token : 0,  v : 1 
+		sommet 5 Token : 0,  v : 1 
+		sommet 6 Token : 0,  v : 1 
+		sommet 7 Token : 0,  v : 1 
+
+	debut des actions du cycles 56 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 57 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 2 
+		sommet 1 Token : 0,  v : 2 
+		sommet 2 Token : 0,  v : 2 
+		sommet 3 Token : 0,  v : 2 
+		sommet 4 Token : 1,  v : 1 
+		sommet 5 Token : 0,  v : 1 
+		sommet 6 Token : 0,  v : 1 
+		sommet 7 Token : 0,  v : 1 
+
+	debut des actions du cycles 57 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 58 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 2 
+		sommet 1 Token : 0,  v : 2 
+		sommet 2 Token : 0,  v : 2 
+		sommet 3 Token : 0,  v : 2 
+		sommet 4 Token : 0,  v : 2 
+		sommet 5 Token : 1,  v : 1 
+		sommet 6 Token : 0,  v : 1 
+		sommet 7 Token : 0,  v : 1 
+
+	debut des actions du cycles 58 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 59 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 2 
+		sommet 1 Token : 0,  v : 2 
+		sommet 2 Token : 0,  v : 2 
+		sommet 3 Token : 0,  v : 2 
+		sommet 4 Token : 0,  v : 2 
+		sommet 5 Token : 0,  v : 2 
+		sommet 6 Token : 1,  v : 1 
+		sommet 7 Token : 0,  v : 1 
+
+	debut des actions du cycles 59 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 60 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 2 
+		sommet 1 Token : 0,  v : 2 
+		sommet 2 Token : 0,  v : 2 
+		sommet 3 Token : 0,  v : 2 
+		sommet 4 Token : 0,  v : 2 
+		sommet 5 Token : 0,  v : 2 
+		sommet 6 Token : 0,  v : 2 
+		sommet 7 Token : 1,  v : 1 
+
+	debut des actions du cycles 60 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 61 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 1,  v : 2 
+		sommet 1 Token : 0,  v : 2 
+		sommet 2 Token : 0,  v : 2 
+		sommet 3 Token : 0,  v : 2 
+		sommet 4 Token : 0,  v : 2 
+		sommet 5 Token : 0,  v : 2 
+		sommet 6 Token : 0,  v : 2 
+		sommet 7 Token : 0,  v : 2 
+
+	debut des actions du cycles 61 
+ 
+		le sommet 0 a fait l'action T 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 62 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 3 
+		sommet 1 Token : 1,  v : 2 
+		sommet 2 Token : 0,  v : 2 
+		sommet 3 Token : 0,  v : 2 
+		sommet 4 Token : 0,  v : 2 
+		sommet 5 Token : 0,  v : 2 
+		sommet 6 Token : 0,  v : 2 
+		sommet 7 Token : 0,  v : 2 
+
+	debut des actions du cycles 62 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action T 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 63 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 3 
+		sommet 1 Token : 0,  v : 3 
+		sommet 2 Token : 1,  v : 2 
+		sommet 3 Token : 0,  v : 2 
+		sommet 4 Token : 0,  v : 2 
+		sommet 5 Token : 0,  v : 2 
+		sommet 6 Token : 0,  v : 2 
+		sommet 7 Token : 0,  v : 2 
+
+	debut des actions du cycles 63 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action T 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 64 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 3 
+		sommet 1 Token : 0,  v : 3 
+		sommet 2 Token : 0,  v : 3 
+		sommet 3 Token : 1,  v : 2 
+		sommet 4 Token : 0,  v : 2 
+		sommet 5 Token : 0,  v : 2 
+		sommet 6 Token : 0,  v : 2 
+		sommet 7 Token : 0,  v : 2 
+
+	debut des actions du cycles 64 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 65 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 3 
+		sommet 1 Token : 0,  v : 3 
+		sommet 2 Token : 0,  v : 3 
+		sommet 3 Token : 0,  v : 3 
+		sommet 4 Token : 1,  v : 2 
+		sommet 5 Token : 0,  v : 2 
+		sommet 6 Token : 0,  v : 2 
+		sommet 7 Token : 0,  v : 2 
+
+	debut des actions du cycles 65 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 66 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 3 
+		sommet 1 Token : 0,  v : 3 
+		sommet 2 Token : 0,  v : 3 
+		sommet 3 Token : 0,  v : 3 
+		sommet 4 Token : 0,  v : 3 
+		sommet 5 Token : 1,  v : 2 
+		sommet 6 Token : 0,  v : 2 
+		sommet 7 Token : 0,  v : 2 
+
+	debut des actions du cycles 66 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 67 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 3 
+		sommet 1 Token : 0,  v : 3 
+		sommet 2 Token : 0,  v : 3 
+		sommet 3 Token : 0,  v : 3 
+		sommet 4 Token : 0,  v : 3 
+		sommet 5 Token : 0,  v : 3 
+		sommet 6 Token : 1,  v : 2 
+		sommet 7 Token : 0,  v : 2 
+
+	debut des actions du cycles 67 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action T 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 68 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 3 
+		sommet 1 Token : 0,  v : 3 
+		sommet 2 Token : 0,  v : 3 
+		sommet 3 Token : 0,  v : 3 
+		sommet 4 Token : 0,  v : 3 
+		sommet 5 Token : 0,  v : 3 
+		sommet 6 Token : 0,  v : 3 
+		sommet 7 Token : 1,  v : 2 
+
+	debut des actions du cycles 68 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action T 
+
+
+debut de l'évaluation du cycles 69 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 1,  v : 3 
+		sommet 1 Token : 0,  v : 3 
+		sommet 2 Token : 0,  v : 3 
+		sommet 3 Token : 0,  v : 3 
+		sommet 4 Token : 0,  v : 3 
+		sommet 5 Token : 0,  v : 3 
+		sommet 6 Token : 0,  v : 3 
+		sommet 7 Token : 0,  v : 3 
+
+	debut des actions du cycles 69 
+ 
+		le sommet 0 a fait l'action T 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 70 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 1,  v : 3 
+		sommet 2 Token : 0,  v : 3 
+		sommet 3 Token : 0,  v : 3 
+		sommet 4 Token : 0,  v : 3 
+		sommet 5 Token : 0,  v : 3 
+		sommet 6 Token : 0,  v : 3 
+		sommet 7 Token : 0,  v : 3 
+
+	debut des actions du cycles 70 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action T 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 71 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 0,  v : 4 
+		sommet 2 Token : 1,  v : 3 
+		sommet 3 Token : 0,  v : 3 
+		sommet 4 Token : 0,  v : 3 
+		sommet 5 Token : 0,  v : 3 
+		sommet 6 Token : 0,  v : 3 
+		sommet 7 Token : 0,  v : 3 
+
+	debut des actions du cycles 71 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action T 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 72 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 0,  v : 4 
+		sommet 2 Token : 0,  v : 4 
+		sommet 3 Token : 1,  v : 3 
+		sommet 4 Token : 0,  v : 3 
+		sommet 5 Token : 0,  v : 3 
+		sommet 6 Token : 0,  v : 3 
+		sommet 7 Token : 0,  v : 3 
+
+	debut des actions du cycles 72 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action T 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 73 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 0,  v : 4 
+		sommet 2 Token : 0,  v : 4 
+		sommet 3 Token : 0,  v : 4 
+		sommet 4 Token : 1,  v : 3 
+		sommet 5 Token : 0,  v : 3 
+		sommet 6 Token : 0,  v : 3 
+		sommet 7 Token : 0,  v : 3 
+
+	debut des actions du cycles 73 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action T 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 74 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 0,  v : 4 
+		sommet 2 Token : 0,  v : 4 
+		sommet 3 Token : 0,  v : 4 
+		sommet 4 Token : 0,  v : 4 
+		sommet 5 Token : 1,  v : 3 
+		sommet 6 Token : 0,  v : 3 
+		sommet 7 Token : 0,  v : 3 
+
+	debut des actions du cycles 74 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action rien 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action T 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
