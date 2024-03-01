@@ -1,13 +1,13 @@
 #ifndef MACRO_H
 #define MACRO_H
 
-#include "topologie.h"
+
 
 #define NBMACRO 1
 
-extern int macro_mem[NBSOMMET][NBMACRO] ;
 
-extern int (*macro[NBMACRO])(int id) ;
+
+extern int (*macro[NBMACRO])(int id,int **topo, int **var, int **macro_mem,int nbVar, int nbNode) ;
 
 
 #endif

@@ -1,0 +1,722 @@
+
+
+debut de l'évaluation du cycles 0 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 5,  horloge : 7 
+		sommet 1 new_clock_value : 5,  horloge : 8 
+		sommet 2 new_clock_value : 5,  horloge : 4 
+		sommet 3 new_clock_value : 4,  horloge : 3 
+		sommet 4 new_clock_value : 3,  horloge : 2 
+		sommet 5 new_clock_value : 1,  horloge : 14 
+		sommet 6 new_clock_value : 1,  horloge : 0 
+		sommet 7 new_clock_value : 1,  horloge : 7 
+		sommet 8 new_clock_value : 3,  horloge : 12 
+		sommet 9 new_clock_value : 4,  horloge : 3 
+		sommet 10 new_clock_value : 3,  horloge : 2 
+		sommet 11 new_clock_value : 8,  horloge : 7 
+		sommet 12 new_clock_value : 8,  horloge : 11 
+		sommet 13 new_clock_value : 8,  horloge : 9 
+
+	debut des actions du cycles 0 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 1 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 6,  horloge : 5 
+		sommet 1 new_clock_value : 6,  horloge : 5 
+		sommet 2 new_clock_value : 2,  horloge : 5 
+		sommet 3 new_clock_value : 2,  horloge : 4 
+		sommet 4 new_clock_value : 4,  horloge : 3 
+		sommet 5 new_clock_value : 2,  horloge : 1 
+		sommet 6 new_clock_value : 2,  horloge : 1 
+		sommet 7 new_clock_value : 2,  horloge : 1 
+		sommet 8 new_clock_value : 2,  horloge : 3 
+		sommet 9 new_clock_value : 2,  horloge : 4 
+		sommet 10 new_clock_value : 4,  horloge : 3 
+		sommet 11 new_clock_value : 2,  horloge : 8 
+		sommet 12 new_clock_value : 9,  horloge : 8 
+		sommet 13 new_clock_value : 9,  horloge : 8 
+
+	debut des actions du cycles 1 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 2 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 3,  horloge : 6 
+		sommet 1 new_clock_value : 3,  horloge : 6 
+		sommet 2 new_clock_value : 3,  horloge : 2 
+		sommet 3 new_clock_value : 3,  horloge : 2 
+		sommet 4 new_clock_value : 3,  horloge : 4 
+		sommet 5 new_clock_value : 3,  horloge : 2 
+		sommet 6 new_clock_value : 3,  horloge : 2 
+		sommet 7 new_clock_value : 3,  horloge : 2 
+		sommet 8 new_clock_value : 3,  horloge : 2 
+		sommet 9 new_clock_value : 3,  horloge : 2 
+		sommet 10 new_clock_value : 3,  horloge : 4 
+		sommet 11 new_clock_value : 3,  horloge : 2 
+		sommet 12 new_clock_value : 3,  horloge : 9 
+		sommet 13 new_clock_value : 3,  horloge : 9 
+
+	debut des actions du cycles 2 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 3 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 4,  horloge : 3 
+		sommet 1 new_clock_value : 4,  horloge : 3 
+		sommet 2 new_clock_value : 4,  horloge : 3 
+		sommet 3 new_clock_value : 4,  horloge : 3 
+		sommet 4 new_clock_value : 4,  horloge : 3 
+		sommet 5 new_clock_value : 4,  horloge : 3 
+		sommet 6 new_clock_value : 4,  horloge : 3 
+		sommet 7 new_clock_value : 4,  horloge : 3 
+		sommet 8 new_clock_value : 4,  horloge : 3 
+		sommet 9 new_clock_value : 4,  horloge : 3 
+		sommet 10 new_clock_value : 4,  horloge : 3 
+		sommet 11 new_clock_value : 4,  horloge : 3 
+		sommet 12 new_clock_value : 4,  horloge : 3 
+		sommet 13 new_clock_value : 4,  horloge : 3 
+
+	debut des actions du cycles 3 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 4 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 5,  horloge : 4 
+		sommet 1 new_clock_value : 5,  horloge : 4 
+		sommet 2 new_clock_value : 5,  horloge : 4 
+		sommet 3 new_clock_value : 5,  horloge : 4 
+		sommet 4 new_clock_value : 5,  horloge : 4 
+		sommet 5 new_clock_value : 5,  horloge : 4 
+		sommet 6 new_clock_value : 5,  horloge : 4 
+		sommet 7 new_clock_value : 5,  horloge : 4 
+		sommet 8 new_clock_value : 5,  horloge : 4 
+		sommet 9 new_clock_value : 5,  horloge : 4 
+		sommet 10 new_clock_value : 5,  horloge : 4 
+		sommet 11 new_clock_value : 5,  horloge : 4 
+		sommet 12 new_clock_value : 5,  horloge : 4 
+		sommet 13 new_clock_value : 5,  horloge : 4 
+
+	debut des actions du cycles 4 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 5 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 6,  horloge : 5 
+		sommet 1 new_clock_value : 6,  horloge : 5 
+		sommet 2 new_clock_value : 6,  horloge : 5 
+		sommet 3 new_clock_value : 6,  horloge : 5 
+		sommet 4 new_clock_value : 6,  horloge : 5 
+		sommet 5 new_clock_value : 6,  horloge : 5 
+		sommet 6 new_clock_value : 6,  horloge : 5 
+		sommet 7 new_clock_value : 6,  horloge : 5 
+		sommet 8 new_clock_value : 6,  horloge : 5 
+		sommet 9 new_clock_value : 6,  horloge : 5 
+		sommet 10 new_clock_value : 6,  horloge : 5 
+		sommet 11 new_clock_value : 6,  horloge : 5 
+		sommet 12 new_clock_value : 6,  horloge : 5 
+		sommet 13 new_clock_value : 6,  horloge : 5 
+
+	debut des actions du cycles 5 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 6 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 7,  horloge : 6 
+		sommet 1 new_clock_value : 7,  horloge : 6 
+		sommet 2 new_clock_value : 7,  horloge : 6 
+		sommet 3 new_clock_value : 7,  horloge : 6 
+		sommet 4 new_clock_value : 7,  horloge : 6 
+		sommet 5 new_clock_value : 7,  horloge : 6 
+		sommet 6 new_clock_value : 7,  horloge : 6 
+		sommet 7 new_clock_value : 7,  horloge : 6 
+		sommet 8 new_clock_value : 7,  horloge : 6 
+		sommet 9 new_clock_value : 7,  horloge : 6 
+		sommet 10 new_clock_value : 7,  horloge : 6 
+		sommet 11 new_clock_value : 7,  horloge : 6 
+		sommet 12 new_clock_value : 7,  horloge : 6 
+		sommet 13 new_clock_value : 7,  horloge : 6 
+
+	debut des actions du cycles 6 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 7 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 8,  horloge : 7 
+		sommet 1 new_clock_value : 8,  horloge : 7 
+		sommet 2 new_clock_value : 8,  horloge : 7 
+		sommet 3 new_clock_value : 8,  horloge : 7 
+		sommet 4 new_clock_value : 8,  horloge : 7 
+		sommet 5 new_clock_value : 8,  horloge : 7 
+		sommet 6 new_clock_value : 8,  horloge : 7 
+		sommet 7 new_clock_value : 8,  horloge : 7 
+		sommet 8 new_clock_value : 8,  horloge : 7 
+		sommet 9 new_clock_value : 8,  horloge : 7 
+		sommet 10 new_clock_value : 8,  horloge : 7 
+		sommet 11 new_clock_value : 8,  horloge : 7 
+		sommet 12 new_clock_value : 8,  horloge : 7 
+		sommet 13 new_clock_value : 8,  horloge : 7 
+
+	debut des actions du cycles 7 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 8 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 9,  horloge : 8 
+		sommet 1 new_clock_value : 9,  horloge : 8 
+		sommet 2 new_clock_value : 9,  horloge : 8 
+		sommet 3 new_clock_value : 9,  horloge : 8 
+		sommet 4 new_clock_value : 9,  horloge : 8 
+		sommet 5 new_clock_value : 9,  horloge : 8 
+		sommet 6 new_clock_value : 9,  horloge : 8 
+		sommet 7 new_clock_value : 9,  horloge : 8 
+		sommet 8 new_clock_value : 9,  horloge : 8 
+		sommet 9 new_clock_value : 9,  horloge : 8 
+		sommet 10 new_clock_value : 9,  horloge : 8 
+		sommet 11 new_clock_value : 9,  horloge : 8 
+		sommet 12 new_clock_value : 9,  horloge : 8 
+		sommet 13 new_clock_value : 9,  horloge : 8 
+
+	debut des actions du cycles 8 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 9 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 10,  horloge : 9 
+		sommet 1 new_clock_value : 10,  horloge : 9 
+		sommet 2 new_clock_value : 10,  horloge : 9 
+		sommet 3 new_clock_value : 10,  horloge : 9 
+		sommet 4 new_clock_value : 10,  horloge : 9 
+		sommet 5 new_clock_value : 10,  horloge : 9 
+		sommet 6 new_clock_value : 10,  horloge : 9 
+		sommet 7 new_clock_value : 10,  horloge : 9 
+		sommet 8 new_clock_value : 10,  horloge : 9 
+		sommet 9 new_clock_value : 10,  horloge : 9 
+		sommet 10 new_clock_value : 10,  horloge : 9 
+		sommet 11 new_clock_value : 10,  horloge : 9 
+		sommet 12 new_clock_value : 10,  horloge : 9 
+		sommet 13 new_clock_value : 10,  horloge : 9 
+
+	debut des actions du cycles 9 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 10 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 11,  horloge : 10 
+		sommet 1 new_clock_value : 11,  horloge : 10 
+		sommet 2 new_clock_value : 11,  horloge : 10 
+		sommet 3 new_clock_value : 11,  horloge : 10 
+		sommet 4 new_clock_value : 11,  horloge : 10 
+		sommet 5 new_clock_value : 11,  horloge : 10 
+		sommet 6 new_clock_value : 11,  horloge : 10 
+		sommet 7 new_clock_value : 11,  horloge : 10 
+		sommet 8 new_clock_value : 11,  horloge : 10 
+		sommet 9 new_clock_value : 11,  horloge : 10 
+		sommet 10 new_clock_value : 11,  horloge : 10 
+		sommet 11 new_clock_value : 11,  horloge : 10 
+		sommet 12 new_clock_value : 11,  horloge : 10 
+		sommet 13 new_clock_value : 11,  horloge : 10 
+
+	debut des actions du cycles 10 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 11 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 12,  horloge : 11 
+		sommet 1 new_clock_value : 12,  horloge : 11 
+		sommet 2 new_clock_value : 12,  horloge : 11 
+		sommet 3 new_clock_value : 12,  horloge : 11 
+		sommet 4 new_clock_value : 12,  horloge : 11 
+		sommet 5 new_clock_value : 12,  horloge : 11 
+		sommet 6 new_clock_value : 12,  horloge : 11 
+		sommet 7 new_clock_value : 12,  horloge : 11 
+		sommet 8 new_clock_value : 12,  horloge : 11 
+		sommet 9 new_clock_value : 12,  horloge : 11 
+		sommet 10 new_clock_value : 12,  horloge : 11 
+		sommet 11 new_clock_value : 12,  horloge : 11 
+		sommet 12 new_clock_value : 12,  horloge : 11 
+		sommet 13 new_clock_value : 12,  horloge : 11 
+
+	debut des actions du cycles 11 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 12 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 13,  horloge : 12 
+		sommet 1 new_clock_value : 13,  horloge : 12 
+		sommet 2 new_clock_value : 13,  horloge : 12 
+		sommet 3 new_clock_value : 13,  horloge : 12 
+		sommet 4 new_clock_value : 13,  horloge : 12 
+		sommet 5 new_clock_value : 13,  horloge : 12 
+		sommet 6 new_clock_value : 13,  horloge : 12 
+		sommet 7 new_clock_value : 13,  horloge : 12 
+		sommet 8 new_clock_value : 13,  horloge : 12 
+		sommet 9 new_clock_value : 13,  horloge : 12 
+		sommet 10 new_clock_value : 13,  horloge : 12 
+		sommet 11 new_clock_value : 13,  horloge : 12 
+		sommet 12 new_clock_value : 13,  horloge : 12 
+		sommet 13 new_clock_value : 13,  horloge : 12 
+
+	debut des actions du cycles 12 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 13 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 14,  horloge : 13 
+		sommet 1 new_clock_value : 14,  horloge : 13 
+		sommet 2 new_clock_value : 14,  horloge : 13 
+		sommet 3 new_clock_value : 14,  horloge : 13 
+		sommet 4 new_clock_value : 14,  horloge : 13 
+		sommet 5 new_clock_value : 14,  horloge : 13 
+		sommet 6 new_clock_value : 14,  horloge : 13 
+		sommet 7 new_clock_value : 14,  horloge : 13 
+		sommet 8 new_clock_value : 14,  horloge : 13 
+		sommet 9 new_clock_value : 14,  horloge : 13 
+		sommet 10 new_clock_value : 14,  horloge : 13 
+		sommet 11 new_clock_value : 14,  horloge : 13 
+		sommet 12 new_clock_value : 14,  horloge : 13 
+		sommet 13 new_clock_value : 14,  horloge : 13 
+
+	debut des actions du cycles 13 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 14 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 15,  horloge : 14 
+		sommet 1 new_clock_value : 15,  horloge : 14 
+		sommet 2 new_clock_value : 15,  horloge : 14 
+		sommet 3 new_clock_value : 15,  horloge : 14 
+		sommet 4 new_clock_value : 15,  horloge : 14 
+		sommet 5 new_clock_value : 15,  horloge : 14 
+		sommet 6 new_clock_value : 15,  horloge : 14 
+		sommet 7 new_clock_value : 15,  horloge : 14 
+		sommet 8 new_clock_value : 15,  horloge : 14 
+		sommet 9 new_clock_value : 15,  horloge : 14 
+		sommet 10 new_clock_value : 15,  horloge : 14 
+		sommet 11 new_clock_value : 15,  horloge : 14 
+		sommet 12 new_clock_value : 15,  horloge : 14 
+		sommet 13 new_clock_value : 15,  horloge : 14 
+
+	debut des actions du cycles 14 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 15 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 0,  horloge : 15 
+		sommet 1 new_clock_value : 0,  horloge : 15 
+		sommet 2 new_clock_value : 0,  horloge : 15 
+		sommet 3 new_clock_value : 0,  horloge : 15 
+		sommet 4 new_clock_value : 0,  horloge : 15 
+		sommet 5 new_clock_value : 0,  horloge : 15 
+		sommet 6 new_clock_value : 0,  horloge : 15 
+		sommet 7 new_clock_value : 0,  horloge : 15 
+		sommet 8 new_clock_value : 0,  horloge : 15 
+		sommet 9 new_clock_value : 0,  horloge : 15 
+		sommet 10 new_clock_value : 0,  horloge : 15 
+		sommet 11 new_clock_value : 0,  horloge : 15 
+		sommet 12 new_clock_value : 0,  horloge : 15 
+		sommet 13 new_clock_value : 0,  horloge : 15 
+
+	debut des actions du cycles 15 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 16 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 1,  horloge : 0 
+		sommet 1 new_clock_value : 1,  horloge : 0 
+		sommet 2 new_clock_value : 1,  horloge : 0 
+		sommet 3 new_clock_value : 1,  horloge : 0 
+		sommet 4 new_clock_value : 1,  horloge : 0 
+		sommet 5 new_clock_value : 1,  horloge : 0 
+		sommet 6 new_clock_value : 1,  horloge : 0 
+		sommet 7 new_clock_value : 1,  horloge : 0 
+		sommet 8 new_clock_value : 1,  horloge : 0 
+		sommet 9 new_clock_value : 1,  horloge : 0 
+		sommet 10 new_clock_value : 1,  horloge : 0 
+		sommet 11 new_clock_value : 1,  horloge : 0 
+		sommet 12 new_clock_value : 1,  horloge : 0 
+		sommet 13 new_clock_value : 1,  horloge : 0 
+
+	debut des actions du cycles 16 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 17 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 2,  horloge : 1 
+		sommet 1 new_clock_value : 2,  horloge : 1 
+		sommet 2 new_clock_value : 2,  horloge : 1 
+		sommet 3 new_clock_value : 2,  horloge : 1 
+		sommet 4 new_clock_value : 2,  horloge : 1 
+		sommet 5 new_clock_value : 2,  horloge : 1 
+		sommet 6 new_clock_value : 2,  horloge : 1 
+		sommet 7 new_clock_value : 2,  horloge : 1 
+		sommet 8 new_clock_value : 2,  horloge : 1 
+		sommet 9 new_clock_value : 2,  horloge : 1 
+		sommet 10 new_clock_value : 2,  horloge : 1 
+		sommet 11 new_clock_value : 2,  horloge : 1 
+		sommet 12 new_clock_value : 2,  horloge : 1 
+		sommet 13 new_clock_value : 2,  horloge : 1 
+
+	debut des actions du cycles 17 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 
+
+
+debut de l'évaluation du cycles 18 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 new_clock_value : 3,  horloge : 2 
+		sommet 1 new_clock_value : 3,  horloge : 2 
+		sommet 2 new_clock_value : 3,  horloge : 2 
+		sommet 3 new_clock_value : 3,  horloge : 2 
+		sommet 4 new_clock_value : 3,  horloge : 2 
+		sommet 5 new_clock_value : 3,  horloge : 2 
+		sommet 6 new_clock_value : 3,  horloge : 2 
+		sommet 7 new_clock_value : 3,  horloge : 2 
+		sommet 8 new_clock_value : 3,  horloge : 2 
+		sommet 9 new_clock_value : 3,  horloge : 2 
+		sommet 10 new_clock_value : 3,  horloge : 2 
+		sommet 11 new_clock_value : 3,  horloge : 2 
+		sommet 12 new_clock_value : 3,  horloge : 2 
+		sommet 13 new_clock_value : 3,  horloge : 2 
+
+	debut des actions du cycles 18 
+ 
+		le sommet 0 a fait l'action incr 
+		le sommet 1 a fait l'action incr 
+		le sommet 2 a fait l'action incr 
+		le sommet 3 a fait l'action incr 
+		le sommet 4 a fait l'action incr 
+		le sommet 5 a fait l'action incr 
+		le sommet 6 a fait l'action incr 
+		le sommet 7 a fait l'action incr 
+		le sommet 8 a fait l'action incr 
+		le sommet 9 a fait l'action incr 
+		le sommet 10 a fait l'action incr 
+		le sommet 11 a fait l'action incr 
+		le sommet 12 a fait l'action incr 
+		le sommet 13 a fait l'action incr 

@@ -3,10 +3,10 @@
 
 #define NBCLAUSE 2
 
-extern int (*gardes[NBCLAUSE])(int id) ;
-extern void (*action[NBCLAUSE])(int id) ;
+extern int (*gardes[NBCLAUSE])(int id,int **topologie, int **var, int nbNode, int nbVar,int **macro_mem,int *action_id) ;
+extern void (*action[NBCLAUSE])(int id,int **topologie, int **var, int nbNode, int nbVar,int **macro_mem,int *action_id) ;
 
-extern int action_id[NBSOMMET];
+
 extern char *nom_des_actions[NBCLAUSE];
 
 #endif
