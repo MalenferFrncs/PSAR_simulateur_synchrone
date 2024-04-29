@@ -1948,3 +1948,16 @@ debut de l'évaluation du cycles 74
 		le sommet 5 a fait l'action T 
 		le sommet 6 a fait l'action rien 
 		le sommet 7 a fait l'action rien 
+
+ fin de la simulation, on a deja vu la prochaine configuration a l'indice 11
+
+
+ configuration final :
+		sommet 0 Token : 0,  v : 4 
+		sommet 1 Token : 0,  v : 4 
+		sommet 2 Token : 0,  v : 4 
+		sommet 3 Token : 0,  v : 4 
+		sommet 4 Token : 0,  v : 4 
+		sommet 5 Token : 0,  v : 4 
+		sommet 6 Token : 1,  v : 3 
+		sommet 7 Token : 0,  v : 3 

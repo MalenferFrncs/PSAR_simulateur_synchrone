@@ -1,6 +1,5 @@
 #include "make_topo.h"
 #include "clauses.h"
-#include "macro.h"
 #include "compare_config.h"
 #include <stdio.h>
 #include <stdlib.h>
@@ -65,8 +64,21 @@ void eval(FILE* sortie,int **topologie, int **var, int nbNode, int nbVar){ /* si
         eval_action(sortie,topologie,var,nbNode,nbVar,macro_mem,action_id);
         i++;
         
-        finish = check_past(var,&past,nbNode,nbVar);
+        finish = check_past(var,&past,nbNode,nbVar,sortie);
     }
+        fprintf(sortie,"\n\n configuration final :\n");
+    for(int i = 0 ; i<nbNode; i++){
+        fprintf(sortie,"\t\tsommet %d",i);
+        
+        for(int j = 0 ; j< NBMACRO; j++){
+            int res = macro[j](i,topologie,var,macro_mem,nbNode,nbVar);
+            
+            macro_mem[i][j] = res;
+            
+            fprintf(sortie," Token : %d,  v : %d \n",macro_mem[i][j],var[i][0]);
+        }
+    }
+    
 }
 
 int main(){

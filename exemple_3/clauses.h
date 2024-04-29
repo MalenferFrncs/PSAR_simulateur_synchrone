@@ -1,6 +1,14 @@
 #ifndef CLAUSES_H
 #define CLAUSES_H
 
+#define NBMACRO 1
+
+
+
+extern int (*macro[NBMACRO])(int id,int **topo, int **var, int **macro_mem,int nbVar, int nbNode) ;
+
+
+
 #define NBCLAUSE 2
 #define K 8
 
