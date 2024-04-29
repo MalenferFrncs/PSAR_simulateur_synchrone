@@ -58,8 +58,18 @@ void eval(FILE* sortie,int **topologie, int **var, int nbNode, int nbVar){ /* si
         eval_action(sortie,topologie,var,nbNode,nbVar,macro_mem,action_id);
         i++;
 
-        finish = check_past(var,&past,nbNode,nbVar);
+        finish = check_past(var,&past,nbNode,nbVar,sortie);
     }
+
+    fprintf(sortie,"\n\n Configuration final : \n");
+
+    for(int i = 0 ; i<nbNode; i++){
+        for(int j = 0 ; j< NBMACRO; j++){
+            macro_mem[i][j] = macro[j](i,topologie,var,macro_mem,nbNode,nbVar);
+            fprintf(sortie,"\t\tsommet %d new_clock_value : %d,  horloge : %d \n",i,macro_mem[i][j],var[i][0]);
+        }
+    }
+
 }
 
 int main(){
