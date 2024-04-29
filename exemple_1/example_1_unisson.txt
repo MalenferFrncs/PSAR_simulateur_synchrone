@@ -336,3 +336,16 @@ debut de l'évaluation du cycles 12
 		le sommet 5 a fait l'action incr 
 		le sommet 6 a fait l'action incr 
 		le sommet 7 a fait l'action incr 
+
+ fin de la simulation, on a deja vu la prochaine configuration a l'indice 3
+
+
+ Configuration final : 
+		sommet 0 new_clock_value : 4,  horloge : 3 
+		sommet 1 new_clock_value : 4,  horloge : 3 
+		sommet 2 new_clock_value : 4,  horloge : 3 
+		sommet 3 new_clock_value : 4,  horloge : 3 
+		sommet 4 new_clock_value : 4,  horloge : 3 
+		sommet 5 new_clock_value : 4,  horloge : 3 
+		sommet 6 new_clock_value : 4,  horloge : 3 
+		sommet 7 new_clock_value : 4,  horloge : 3 

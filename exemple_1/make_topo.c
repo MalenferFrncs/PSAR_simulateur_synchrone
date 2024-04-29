@@ -1,5 +1,5 @@
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
 #include "make_topo.h"
 
 int make_topo(int ***topo, FILE* topo_file){
