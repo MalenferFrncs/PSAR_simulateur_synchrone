@@ -1,4 +1,4 @@
-all : simul boucle clean
+
 
 CC=gcc
 CFLAGS=-I --Wall -g
