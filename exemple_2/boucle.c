@@ -1,6 +1,5 @@
 #include "make_topo.h"
 #include "clauses.h"
-#include "macro.h"
 #include "compare_config.h"
 #include <stdio.h>
 #include <stdlib.h>
