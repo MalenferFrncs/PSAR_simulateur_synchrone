@@ -1,0 +1,7 @@
+NBVAR = 3 
+dist(0,1,2,0*(3)),token(false(0), true(1), wait(2), err(3) ),bit(0,1)
+
+
+
+NBMARCO = 3
+Er,Per,Take

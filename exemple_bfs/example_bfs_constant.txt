@@ -1,0 +1,1029 @@
+
+
+debut de l'évaluation du cycles 0 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 0,  token : 0 bit : 0 
+		sommet 2 dist : 0,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 0,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 0 
+ 
+		le sommet 0 a fait l'action clean 
+		le sommet 1 a fait l'action Tok 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 1 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 0 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 3 bit : 1 
+		sommet 1 dist : 1,  token : 1 bit : 0 
+		sommet 2 dist : 0,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 0,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 1 
+ 
+		le sommet 0 a fait l'action go 
+		le sommet 1 a fait l'action update 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 2 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 2 bit : 1 
+		sommet 2 dist : 0,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 0,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 2 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action ready 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 3 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 0 bit : 1 
+		sommet 2 dist : 0,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 0,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 3 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action Tok 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 4 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 1 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 1 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 1 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 1 bit : 1 
+		sommet 2 dist : 0,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 0,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 4 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action update 
+		le sommet 2 a fait l'action Tok 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action Tok 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 5 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 0 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 2 bit : 0 
+		sommet 2 dist : 2,  token : 1 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 2,  token : 1 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 5 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action ready 
+		le sommet 2 a fait l'action update 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action update 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 6 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 0 bit : 0 
+		sommet 2 dist : 2,  token : 2 bit : 1 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 2,  token : 2 bit : 1 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 6 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action Tok 
+		le sommet 2 a fait l'action ready 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action ready 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 7 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 1 bit : 0 
+		sommet 2 dist : 2,  token : 0 bit : 1 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 2,  token : 0 bit : 1 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 7 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action update 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 8 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 2 bit : 1 
+		sommet 2 dist : 2,  token : 0 bit : 1 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 2,  token : 0 bit : 1 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 8 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action ready 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 9 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 0 bit : 1 
+		sommet 2 dist : 2,  token : 0 bit : 1 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 2,  token : 0 bit : 1 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 9 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action Tok 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 10 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 1 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 1 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 1 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 1 bit : 1 
+		sommet 2 dist : 2,  token : 0 bit : 1 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 2,  token : 0 bit : 1 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 10 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action update 
+		le sommet 2 a fait l'action Tok 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action Tok 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 11 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 0 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 1 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 1 
+		sommet 6 Er : 0,  Per : 0, Take : 1 
+		sommet 7 Er : 0,  Per : 0, Take : 1 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 2 bit : 0 
+		sommet 2 dist : 2,  token : 1 bit : 1 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 2,  token : 1 bit : 1 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 11 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action ready 
+		le sommet 2 a fait l'action update 
+		le sommet 3 a fait l'action Tok 
+		le sommet 4 a fait l'action update 
+		le sommet 5 a fait l'action Tok 
+		le sommet 6 a fait l'action Tok 
+		le sommet 7 a fait l'action Tok 
+
+
+debut de l'évaluation du cycles 12 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 0 bit : 0 
+		sommet 2 dist : 2,  token : 2 bit : 0 
+		sommet 3 dist : 0,  token : 1 bit : 0 
+		sommet 4 dist : 2,  token : 2 bit : 0 
+		sommet 5 dist : 0,  token : 1 bit : 0 
+		sommet 6 dist : 0,  token : 1 bit : 0 
+		sommet 7 dist : 0,  token : 1 bit : 0 
+
+	debut des actions du cycles 12 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action Tok 
+		le sommet 2 a fait l'action ready 
+		le sommet 3 a fait l'action update 
+		le sommet 4 a fait l'action ready 
+		le sommet 5 a fait l'action update 
+		le sommet 6 a fait l'action update 
+		le sommet 7 a fait l'action update 
+
+
+debut de l'évaluation du cycles 13 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 1 bit : 0 
+		sommet 2 dist : 2,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 2 bit : 1 
+		sommet 4 dist : 2,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 2 bit : 1 
+		sommet 6 dist : 0,  token : 2 bit : 1 
+		sommet 7 dist : 0,  token : 2 bit : 1 
+
+	debut des actions du cycles 13 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action update 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action ready 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action ready 
+		le sommet 6 a fait l'action ready 
+		le sommet 7 a fait l'action ready 
+
+
+debut de l'évaluation du cycles 14 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 2 bit : 1 
+		sommet 2 dist : 2,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 1 
+		sommet 4 dist : 2,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 1 
+		sommet 6 dist : 0,  token : 0 bit : 1 
+		sommet 7 dist : 0,  token : 0 bit : 1 
+
+	debut des actions du cycles 14 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action ready 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 15 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 0 bit : 1 
+		sommet 2 dist : 2,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 1 
+		sommet 4 dist : 2,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 1 
+		sommet 6 dist : 0,  token : 0 bit : 1 
+		sommet 7 dist : 0,  token : 0 bit : 1 
+
+	debut des actions du cycles 15 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action Tok 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 16 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 1 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 1 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 1 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 1 bit : 1 
+		sommet 2 dist : 2,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 1 
+		sommet 4 dist : 2,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 1 
+		sommet 6 dist : 0,  token : 0 bit : 1 
+		sommet 7 dist : 0,  token : 0 bit : 1 
+
+	debut des actions du cycles 16 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action update 
+		le sommet 2 a fait l'action Tok 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action Tok 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 17 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 0 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 2 bit : 0 
+		sommet 2 dist : 2,  token : 1 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 1 
+		sommet 4 dist : 2,  token : 1 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 1 
+		sommet 6 dist : 0,  token : 0 bit : 1 
+		sommet 7 dist : 0,  token : 0 bit : 1 
+
+	debut des actions du cycles 17 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action ready 
+		le sommet 2 a fait l'action update 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action update 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 18 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 0 bit : 0 
+		sommet 2 dist : 2,  token : 2 bit : 1 
+		sommet 3 dist : 0,  token : 0 bit : 1 
+		sommet 4 dist : 2,  token : 2 bit : 1 
+		sommet 5 dist : 0,  token : 0 bit : 1 
+		sommet 6 dist : 0,  token : 0 bit : 1 
+		sommet 7 dist : 0,  token : 0 bit : 1 
+
+	debut des actions du cycles 18 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action Tok 
+		le sommet 2 a fait l'action ready 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action ready 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 19 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 1 bit : 0 
+		sommet 2 dist : 2,  token : 0 bit : 1 
+		sommet 3 dist : 0,  token : 0 bit : 1 
+		sommet 4 dist : 2,  token : 0 bit : 1 
+		sommet 5 dist : 0,  token : 0 bit : 1 
+		sommet 6 dist : 0,  token : 0 bit : 1 
+		sommet 7 dist : 0,  token : 0 bit : 1 
+
+	debut des actions du cycles 19 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action update 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 20 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 2 bit : 1 
+		sommet 2 dist : 2,  token : 0 bit : 1 
+		sommet 3 dist : 0,  token : 0 bit : 1 
+		sommet 4 dist : 2,  token : 0 bit : 1 
+		sommet 5 dist : 0,  token : 0 bit : 1 
+		sommet 6 dist : 0,  token : 0 bit : 1 
+		sommet 7 dist : 0,  token : 0 bit : 1 
+
+	debut des actions du cycles 20 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action ready 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 21 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 0 bit : 1 
+		sommet 2 dist : 2,  token : 0 bit : 1 
+		sommet 3 dist : 0,  token : 0 bit : 1 
+		sommet 4 dist : 2,  token : 0 bit : 1 
+		sommet 5 dist : 0,  token : 0 bit : 1 
+		sommet 6 dist : 0,  token : 0 bit : 1 
+		sommet 7 dist : 0,  token : 0 bit : 1 
+
+	debut des actions du cycles 21 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action Tok 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 22 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 1 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 1 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 1 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 1 bit : 1 
+		sommet 2 dist : 2,  token : 0 bit : 1 
+		sommet 3 dist : 0,  token : 0 bit : 1 
+		sommet 4 dist : 2,  token : 0 bit : 1 
+		sommet 5 dist : 0,  token : 0 bit : 1 
+		sommet 6 dist : 0,  token : 0 bit : 1 
+		sommet 7 dist : 0,  token : 0 bit : 1 
+
+	debut des actions du cycles 22 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action update 
+		le sommet 2 a fait l'action Tok 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action Tok 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 23 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 0 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 1 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 1 
+		sommet 6 Er : 0,  Per : 0, Take : 1 
+		sommet 7 Er : 0,  Per : 0, Take : 1 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 2 bit : 0 
+		sommet 2 dist : 2,  token : 1 bit : 1 
+		sommet 3 dist : 0,  token : 0 bit : 1 
+		sommet 4 dist : 2,  token : 1 bit : 1 
+		sommet 5 dist : 0,  token : 0 bit : 1 
+		sommet 6 dist : 0,  token : 0 bit : 1 
+		sommet 7 dist : 0,  token : 0 bit : 1 
+
+	debut des actions du cycles 23 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action ready 
+		le sommet 2 a fait l'action update 
+		le sommet 3 a fait l'action Tok 
+		le sommet 4 a fait l'action update 
+		le sommet 5 a fait l'action Tok 
+		le sommet 6 a fait l'action Tok 
+		le sommet 7 a fait l'action Tok 
+
+
+debut de l'évaluation du cycles 24 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 1 
+		sommet 3 Er : 0,  Per : 0, Take : 1 
+		sommet 4 Er : 0,  Per : 0, Take : 1 
+		sommet 5 Er : 0,  Per : 0, Take : 1 
+		sommet 6 Er : 0,  Per : 0, Take : 1 
+		sommet 7 Er : 0,  Per : 0, Take : 1 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 0 bit : 0 
+		sommet 2 dist : 2,  token : 2 bit : 0 
+		sommet 3 dist : 0,  token : 1 bit : 1 
+		sommet 4 dist : 2,  token : 2 bit : 0 
+		sommet 5 dist : 0,  token : 1 bit : 1 
+		sommet 6 dist : 0,  token : 1 bit : 1 
+		sommet 7 dist : 0,  token : 1 bit : 1 
+
+	debut des actions du cycles 24 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action Tok 
+		le sommet 2 a fait l'action ready 
+		le sommet 3 a fait l'action update 
+		le sommet 4 a fait l'action ready 
+		le sommet 5 a fait l'action update 
+		le sommet 6 a fait l'action update 
+		le sommet 7 a fait l'action update 
+
+
+debut de l'évaluation du cycles 25 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 1 bit : 0 
+		sommet 2 dist : 2,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 2 bit : 0 
+		sommet 4 dist : 2,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 2 bit : 0 
+		sommet 6 dist : 0,  token : 2 bit : 0 
+		sommet 7 dist : 0,  token : 2 bit : 0 
+
+	debut des actions du cycles 25 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action update 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action ready 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action ready 
+		le sommet 6 a fait l'action ready 
+		le sommet 7 a fait l'action ready 
+
+
+debut de l'évaluation du cycles 26 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 2 bit : 1 
+		sommet 2 dist : 2,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 2,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 26 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action ready 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 27 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 0 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 0 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 0 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 0 bit : 1 
+		sommet 2 dist : 2,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 2,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 27 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action Tok 
+		le sommet 2 a fait l'action rien 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action rien 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+
+debut de l'évaluation du cycles 28 
+ 
+
+	valeurs des macro et des memoires  
+ 
+		sommet 0 Er : 0,  Per : 0, Take : 1 
+		sommet 1 Er : 0,  Per : 0, Take : 1 
+		sommet 2 Er : 0,  Per : 0, Take : 1 
+		sommet 3 Er : 0,  Per : 0, Take : 0 
+		sommet 4 Er : 0,  Per : 0, Take : 1 
+		sommet 5 Er : 0,  Per : 0, Take : 0 
+		sommet 6 Er : 0,  Per : 0, Take : 0 
+		sommet 7 Er : 0,  Per : 0, Take : 0 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 1 bit : 1 
+		sommet 2 dist : 2,  token : 0 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 2,  token : 0 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
+
+	debut des actions du cycles 28 
+ 
+		le sommet 0 a fait l'action rien 
+		le sommet 1 a fait l'action update 
+		le sommet 2 a fait l'action Tok 
+		le sommet 3 a fait l'action rien 
+		le sommet 4 a fait l'action Tok 
+		le sommet 5 a fait l'action rien 
+		le sommet 6 a fait l'action rien 
+		le sommet 7 a fait l'action rien 
+
+ fin de la simulation, on a deja vu la prochaine configuration a l'indice 5
+
+
+ Configuration final : 
+
+		sommet 0 est la racine, dist : 0*,  token : 1 bit : 1 
+		sommet 1 dist : 1,  token : 2 bit : 0 
+		sommet 2 dist : 2,  token : 1 bit : 0 
+		sommet 3 dist : 0,  token : 0 bit : 0 
+		sommet 4 dist : 2,  token : 1 bit : 0 
+		sommet 5 dist : 0,  token : 0 bit : 0 
+		sommet 6 dist : 0,  token : 0 bit : 0 
+		sommet 7 dist : 0,  token : 0 bit : 0 
