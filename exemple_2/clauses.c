@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include "clauses.h"
-#include "macro.h"
 
 /* macro */
 
